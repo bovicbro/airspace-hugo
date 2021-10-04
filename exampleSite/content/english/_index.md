@@ -3,11 +3,11 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web test and the work we do.We work closely with our clients
-    to deliver  the best possible solutions for their needs
+  title: SailingOurSaga<br/> Our adventure on the high seas
+  content: We are a sailing couple, on a journey around the world. Follow us on our
+    blog and on instagram.
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
